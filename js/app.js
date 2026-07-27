@@ -41,12 +41,12 @@ function renderProject (i) {
   cardEl.innerHTML = `
     <img class="project-image" src="${p.image}" alt="${p.title} preview" />
     <div class="project-body">
-      <p class="project-index">PRJ_0${i + 1} / 0${projects.length}</p>
+      <!-- <p class="project-index">PRJ_0${i + 1} / 0${projects.length}</p> -->
       <h3>${p.title}</h3>
       <p>${p.description}</p>
       <div class="project-links">
         <a class="btn-view" href="projects.html#project-${i + 1}">View project</a>
-        <a class="btn-github" href="${p.github}" target="_blank" rel="noopener noreferrer">${githubIcon} Repository</a>
+        <a class="btn-github" href="${p.github}" target="_blank" rel="noopener noreferrer"><ion-icon name="logo-github"></ion-icon> Repository</a>
       </div>
     </div>
   `;
@@ -79,7 +79,7 @@ document.getElementById('next-project').addEventListener('click', () => {
 const navLinks = document.querySelectorAll('.menu a');
 const sections = document.querySelectorAll('.RightSide > div[id]');
 
-const observer = new IntersectionObserver(
+const observer = new window.IntersectionObserver(
   entries => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
@@ -94,7 +94,5 @@ const observer = new IntersectionObserver(
   },
   { rootMargin: '-40% 0px -55% 0px' }
 );
-
-// Load projects.json and create project cards. For projects page
 
 sections.forEach(section => observer.observe(section));
