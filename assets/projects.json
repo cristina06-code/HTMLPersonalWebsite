@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Music Fireball",
+    "description": "A 3D-printed gaming ball designed to help school teenagers socialize with each other, spend less time on their phones and be more active.",
+    "image": "./images/musicFireball.jpeg",
+    "github": "https://github.com/cristina06-code/MusicFireball",
+    "details": "XYZ"
+  },
+  {
+    "title": "Obstacle Detection with RealSense",
+    "description": "Real-time obstacle detection and avoidance pipeline built with OpenCV and an Intel RealSense depth camera.",
+    "image": "resources/project-2.svg",
+    "github": "https://github.com/cristina06-code",
+    "details": "Combines RGB-D data from a RealSense camera with OpenCV processing to segment obstacles and feed a reactive avoidance layer, tested on a small differential-drive platform."
+  },
+  {
+    "title": "IoT Environmental Monitor",
+    "description": "A custom PCB with temperature, humidity, and air-quality sensors that streams readings to the cloud.",
+    "image": "resources/project-3.svg",
+    "github": "https://github.com/cristina06-code",
+    "details": "Designed a two-layer PCB around a low-power microcontroller, wrote the embedded C firmware, and set up an AWS IoT pipeline to log and visualize sensor readings."
+  }
+]
