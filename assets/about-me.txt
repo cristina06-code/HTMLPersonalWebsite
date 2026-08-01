@@ -1,6 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eu nulla id arcu porta fermentum ut sed ante. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc elementum nisl et lectus egestas pharetra. Morbi accumsan arcu in dolor congue, a scelerisque ligula feugiat. Integer vel luctus est. Curabitur fringilla pellentesque quam, id rutrum quam varius quis. Mauris aliquet vulputate est sit amet dapibus. Nullam non odio mauris.
-
-Suspendisse molestie nec nibh non feugiat. Donec pharetra sodales lectus et posuere. Aenean eu ante vitae dolor venenatis blandit at scelerisque risus. Vestibulum porttitor, libero quis imperdiet rutrum, leo nisi faucibus ipsum, eu consequat purus erat sit amet ipsum. Cras cursus nisi justo, nec euismod ligula porta in. Mauris facilisis neque eleifend lacus lobortis, ut rhoncus massa semper. Etiam pharetra lorem sed tellus porta laoreet.
-
-Ut nec urna vel nunc accumsan aliquam. Mauris quis blandit eros. Quisque id varius arcu. Duis lobortis blandit lorem. Nam in bibendum lacus. Vivamus convallis, eros at rhoncus dictum, dolor mauris interdum eros, sed aliquam dolor ipsum molestie lacus. Nulla nulla metus, venenatis nec nibh sed, ullamcorper molestie odio. Vestibulum cursus maximus leo at placerat. Duis eget lectus sit amet sem laoreet consectetur. Duis at aliquet leo. Integer fermentum congue quam at tempor.
-
+Hello, my name is Cristina from Moldova and I am a 2nd year Bachelor's IT Product-Development student at Aarhus University.

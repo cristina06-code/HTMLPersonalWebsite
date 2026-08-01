@@ -46,7 +46,7 @@ function renderProject (i) {
       <p>${p.description}</p>
       <div class="project-links">
         <a class="btn-view" href="projects.html#project-${i + 1}">View project</a>
-        <a class="btn-github" href="${p.github}" target="_blank" rel="noopener noreferrer"><ion-icon name="logo-github"></ion-icon> Repository</a>
+        <a class="btn-github" href="${p.github}" target="_blank" rel="noopener noreferrer">${githubIcon} Repository</a>
       </div>
     </div>
   `;
