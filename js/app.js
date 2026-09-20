@@ -100,9 +100,9 @@ sections.forEach(section => observer.observe(section));
 const backToTop = document.getElementById('back-to-top');
 
 window.addEventListener('scroll', () => {
-	backToTop.classList.toggle('visible', window.scrollY > 300);
+  backToTop.classList.toggle('visible', window.scrollY > 300);
 }, { passive: true });
 
 backToTop.addEventListener('click', () => {
-	window.scrollTo({ top: 0 });
+  window.scrollTo({ top: 0 });
 });
