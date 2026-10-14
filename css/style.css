@@ -1,7 +1,5 @@
 /* ======================================================
    Cristina Muntean — Portfolio
-   Design language: PCB substrate — dark FR4 green, copper
-   traces, silkscreen labels. Grounded in embedded/robotics.
    ====================================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
@@ -506,7 +504,6 @@ a { color: inherit; text-decoration: none; }
 
   .LeftSide {
     padding: 40px 28px;
-    /* border-bottom: 1px solid var(--border); */
   }
 
   .RightSide {
@@ -583,7 +580,6 @@ a { color: inherit; text-decoration: none; }
 
   .LeftSide {
     padding: 40px 28px;
-    /* border-bottom: 1px solid var(--border); */
   }
 
   .RightSide {
